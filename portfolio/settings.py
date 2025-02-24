@@ -95,6 +95,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
-ALLOWED_HOSTS = ['my-portfolio-stod.onrender.com', 'localhost']
+ALLOWED_HOSTS = ['my-portfolio-stod.onrender.com', 'localhost','my-portfolio-azure-ten-19.vercel.app']
 
 
