@@ -95,6 +95,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
-ALLOWED_HOSTS = ['my-portfolio-stod.onrender.com', 'localhost','nivyarose.vercel.app']
+ALLOWED_HOSTS = ['www.nivyarose.site', 'localhost']
 
 
