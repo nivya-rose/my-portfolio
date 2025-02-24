@@ -95,6 +95,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
-ALLOWED_HOSTS = ['www.nivyarose.site', 'localhost']
+ALLOWED_HOSTS = ['www.nivyarose.site', 'localhost','127.0.0.1']
+
 
 
