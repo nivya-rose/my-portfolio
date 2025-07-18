@@ -43,7 +43,7 @@ Feel free to connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/nivya-rose)
 - [GitHub](https://github.com/nivya-rose)
-- [Instagram](#) <!-- Replace with your actual link -->
+
 
 ---
 
