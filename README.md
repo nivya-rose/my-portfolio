@@ -29,13 +29,6 @@ This portfolio highlights my journey as a **Full-Stack Developer**, showcasing m
 
 I personally **designed and developed** this portfolio from scratch to reflect my skills and personality. The layout is responsive, clean, and designed with user experience in mind.
 
----
-
-## 🖼️ Preview
-
-![Portfolio Preview](./e5375b29-0cdc-452b-9c91-292e84f61592.png)
-
----
 
 ## 📬 Contact Me
 
